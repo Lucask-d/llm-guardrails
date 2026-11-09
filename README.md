@@ -1,4 +1,4 @@
-# ECM3408: LLM Guardrails
+# LLM Guardrails
 
 A Python microservices project that applies configurable regular-expression guardrails to LLM prompts and responses. Guardrails are stored in Firebase Realtime Database, and text generation uses the Mistral API.
 
